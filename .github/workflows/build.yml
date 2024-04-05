@@ -81,9 +81,6 @@ jobs:
             Build
           labels: automated-pr
           assignees: xvilo
-          team-reviewers: |
-            owners
-            maintainers
           draft: false
 
       - name: Check outputs
